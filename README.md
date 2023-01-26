@@ -17,10 +17,12 @@ I really love to play and create the videogames 🎮...
 
 [![WebPage_Follow](https://img.shields.io/badge/williamsvega.com-0077B5?style=for-the-badge&logo=GoogleChrome&logoColor=white&labelColor=101010)](http://williamsvega.com)
 
+[![itchio_Follow](https://img.shields.io/badge/itch.io-0077B5?style=for-the-badge&logo=Itch.io&logoColor=white&labelColor=101010)](https://itch.io/profile/wvega)
+
 ### >_ Skills:
 [![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](#)
 [![Unity Follow](https://img.shields.io/badge/Unity-E34F26?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)](#)
-[![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
+[![Python](https://img.shields.io/badge/Python-563D7C?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
 </br>
 </br>
 
